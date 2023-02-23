@@ -1,8 +1,16 @@
 /* your code */
-.item{
-	background-color:blue;
-	
-
+table{
+	width:auto
+	ali
 }
-	
+
+.item{
+	/*background-color:blue;*/
+}
+	tr {
+		border: 2px sold blue;
+		/*background-color:blue;*/
+	}
+td, th {
+	border:4px solid orange;
 }
